@@ -17,4 +17,4 @@ All datasets generated in this project are updates every day
 
 To ensure our employees' and customers' health, we decided to close all our physical stores when the pandemic started. However, we kept monitoring cases and deaths across the country to find out places where the situation was more critical and where the disease was losing its strength
 
-To make it easy for everyone to follow the updated situation we created this [medium article](https://medium.com/luizalabs/evolu%C3%A7%C3%A3o-covid-19-no-brasil-f44a58453914).
+To make it easy for everyone to follow the updated situation we created this [medium article](https://medium.com/luizalabs/evolu%C3%A7%C3%A3o-covid-19-no-brasil-f44a58453914)
